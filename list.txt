@@ -1,0 +1,6 @@
+Cat{name='Pushok', paws=4, owner='Oleg'}
+Dog{name='Chicha', paws=4, owner='Petr'}
+Duck{name='Donald', paws=2, owner='Ivan'}
+Eagle{name='Gosha', paws=2, owner='Alex'}
+Dolphin{name='Willy', paws=0, owner='Gleb'}
+Penguin{name='Karl', paws=2, owner='Dmitry'}
